@@ -1,6 +1,6 @@
 # use-the-microsoft-botframework-webchat-react-component-in-vue-js
 
-This is the sample project described in the [blog-post](https://blog.delegate.at/2019/03/25/use-the-microsoft-botframework-webchat-react-component-in-vue-js.html) using the [microsoft/botframework-webchat](https://github.com/Microsoft/BotFramework-WebChat) in vuejs.
+This is the sample project described in the [blog-post](https://blog.delegate.at/2019/03/25/use-the-microsoft-botframework-webchat-react-component-in-vue-js.html) using the [microsoft/botframework-webchat](https://github.com/Microsoft/BotFramework-WebChat) in [vuejs](https://vuejs.org/).
 
 
 ## Project setup
