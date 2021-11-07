@@ -39,6 +39,8 @@ export default class Home extends Vue {
 
     const { token } = await res.json();
 
+    console.log(token);
+
     this.directLine = createDirectLine({
       token: token.token
     });
